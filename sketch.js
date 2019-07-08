@@ -1,7 +1,7 @@
 let angle = 0;
 let time = 0;
 let wave = [];
-let N=5;
+let N=1;
 
 function setup() {
   // put setup code here
