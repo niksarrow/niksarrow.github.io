@@ -27,7 +27,7 @@ function draw() {
   textSize(32);
   noStroke();
   fill(150,150,150);
-  text('Fourier Series Visualised', 10,30);
+  text('Hi Aditi', 10,30);
   textSize(16);
   text('(Approximation to square wave)', 10,55);
   textSize(24);
